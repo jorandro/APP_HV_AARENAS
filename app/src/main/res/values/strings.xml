@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">APP Hoja de Vida</string>
+    <string name="HV">APP Hoja de Vida</string>
+    <string name="Nombre">JORGE ALEJANDRO ARENAS MEJIA</string>
+    <string name="Correo">jorandro@gmail.com</string>
+    <string name="Tel">3509094527</string>
+    <string name="Ciudad">Bogotá, Colombia</string>
+    <string name="SIG">NEXT</string>
+    <string name="ATRAS">BACK</string>
+    <string name="RESUMEN">RESUMEN</string>
+    <string name="DESC">Ingeniero en proceso de grado con profundización en telecomunicaciones, certificado en equipos Huawei, conocimiento en equipos de Networking (LAN, WAN, Switchng, Routing, VoIP, Firewall).
+Cuento con habilidades para desarrollar trabajos en equipo, manejo de personal, iniciativa para resolver problemáticas, liderazgo, trabajo bajo presión.
+</string>
+    <string name="EXP">EXPERIENCIA</string>
+    <string name="READ">LEIDO</string>
+    <string name="PROYECTS">PROYECTOS</string>
+    <string name="PROY1">IMPLEMENTACION SWITCHES CORE – REGISTRADURIA NACIONAL DEL ESTADO CIVIL</string>
+    <string name="PROY2">IMPLEMENTACIÓN SOLUCIÓN WIFI – AERONAUTICA CIVIL DE COLOMBIA</string>
+    <string name="PROY3">IMPLEMENTACION SOLUCIÓN CONECTIVIDAD TIENDAS WOM </string>
+    <string name="PROY4">IMPLEMENTACIÓN SWITCHES DE ACCESO – DANE</string>
+    <string name="ACEPT">ACEPTAR CANDIDATO</string>
+    <string name="COMPLET">PERFIL COMPLETO</string>
+    <string name="END">SE ACEPTO CANDIDATO</string>
+    <string name="MAIN">PRINCIPAL</string>
+</resources>

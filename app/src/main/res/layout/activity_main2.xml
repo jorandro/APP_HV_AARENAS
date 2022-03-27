@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="198dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="17dp"
+        android:layout_marginTop="22dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginBottom="511dp">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="360dp"
+                android:layout_height="55dp"
+                android:text="@string/RESUMEN" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/DESC" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </TableRow>
+
+    </TableLayout>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="77dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="37dp"
+        android:layout_marginTop="395dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="259dp">
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="248dp"
+            android:layout_height="wrap_content"
+            android:text="@string/READ" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="401dp"
+        android:layout_height="74dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="616dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="41dp">
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="187dp"
+            android:layout_height="wrap_content"
+            android:onClick="Back"
+            android:text="@string/ATRAS" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="205dp"
+            android:layout_height="wrap_content"
+            android:enabled="false"
+            android:onClick="Next"
+            android:text="@string/SIG" />
+    </TableRow>
+</RelativeLayout>
