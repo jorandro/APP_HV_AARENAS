@@ -1,25 +1,23 @@
 <resources>
     <string name="app_name">APP Hoja de Vida</string>
-    <string name="HV">APP Hoja de Vida</string>
-    <string name="Nombre">JORGE ALEJANDRO ARENAS MEJIA</string>
-    <string name="Correo">jorandro@gmail.com</string>
-    <string name="Tel">3509094527</string>
-    <string name="Ciudad">Bogotá, Colombia</string>
+    <string name="HV">APP Curriculum</string>
+    <string name="Nombre" translatable="false">JORGE ALEJANDRO ARENAS MEJIA</string>
+    <string name="Correo" translatable="false">jorandro@gmail.com</string>
+    <string name="Tel" translatable="false">3509094527</string>
+    <string name="Ciudad" translatable="false">Bogotá, Colombia</string>
     <string name="SIG">NEXT</string>
     <string name="ATRAS">BACK</string>
-    <string name="RESUMEN">RESUMEN</string>
-    <string name="DESC">Ingeniero en proceso de grado con profundización en telecomunicaciones, certificado en equipos Huawei, conocimiento en equipos de Networking (LAN, WAN, Switchng, Routing, VoIP, Firewall).
-Cuento con habilidades para desarrollar trabajos en equipo, manejo de personal, iniciativa para resolver problemáticas, liderazgo, trabajo bajo presión.
-</string>
-    <string name="EXP">EXPERIENCIA</string>
-    <string name="READ">LEIDO</string>
-    <string name="PROYECTS">PROYECTOS</string>
-    <string name="PROY1">IMPLEMENTACION SWITCHES CORE – REGISTRADURIA NACIONAL DEL ESTADO CIVIL</string>
-    <string name="PROY2">IMPLEMENTACIÓN SOLUCIÓN WIFI – AERONAUTICA CIVIL DE COLOMBIA</string>
-    <string name="PROY3">IMPLEMENTACION SOLUCIÓN CONECTIVIDAD TIENDAS WOM </string>
-    <string name="PROY4">IMPLEMENTACIÓN SWITCHES DE ACCESO – DANE</string>
-    <string name="ACEPT">ACEPTAR CANDIDATO</string>
-    <string name="COMPLET">PERFIL COMPLETO</string>
-    <string name="END">SE ACEPTO CANDIDATO</string>
+    <string name="RESUMEN">RESUME</string>
+    <string name="EXP">EXPERIENCE</string>
+    <string name="READ">READED</string>
+    <string name="PROYECTS">PROYECTS</string>
+    <string name="PROY1">IMPLEMENTATION SWITCHES CORE – REGISTRADURIA NACIONAL DEL ESTADO CIVIL</string>
+    <string name="PROY2">IMPLEMENTATION SOLUTION WIFI – AERONAUTICA CIVIL DE COLOMBIA</string>
+    <string name="PROY3">"IMPLEMENTATION SOLUTION CONECTIVITY STORE WOM "</string>
+    <string name="PROY4">IMPLEMENTATION SWITCH  ACCESS – DANE</string>
+    <string name="ACEPT">ACCEPT</string>
+    <string name="COMPLET">" COMPLETE"</string>
+    <string name="END">CANDIDATE ACCEPTED</string>
     <string name="MAIN">PRINCIPAL</string>
+    <string name="DESC">Engineer in process of degree with deepening in telecommunications, certified in Huawei equipment, knowledge in Networking equipment (LAN, WAN, Switchng, Routing, VoIP, Firewall). I have skills to develop teamwork, personnel management, initiative to solve problems, leadership, work under pressure.</string>
 </resources>
